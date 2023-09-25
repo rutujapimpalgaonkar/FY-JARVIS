@@ -1,2 +1,2 @@
 # PTDMA-Newton
-Voice assitant created as a class project. 
+Voice assistant was created as a Final year project. 
